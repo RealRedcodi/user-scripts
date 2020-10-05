@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Oof Focus
+// @name         OOF Focus
 // @namespace    https://redcodi.space
-// @version      0.12
-// @description  OOF
-// @author       Trash
+// @version      0.13
+// @description  OOF Focus!
+// @author       Redcodi
 // @match        https://*.pcsb.org/*
 // @match        http://*.pcsb.org/*
 // @supportURL   https://github.com/RealRedcodi/user-scripts/issues
@@ -19,7 +19,7 @@
 
 function msg() {
   //console.log("Work in progress");
-  logger("This is a work in progress! Things might break!", "log");
+  logger("This is a work in progress! This doesnt even work yet!", "log");
   //swal("Warning", "This is a work in progress! Things might break!", "warning");
 }
 msg();
