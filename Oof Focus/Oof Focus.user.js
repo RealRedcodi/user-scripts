@@ -1,17 +1,19 @@
 // ==UserScript==
 // @name         Oof Focus
 // @namespace    https://redcodi.space
-// @version      0.11
+// @version      0.12
 // @description  OOF
 // @author       Trash
 // @match        https://*.pcsb.org/*
 // @match        http://*.pcsb.org/*
-// @supportURL   https://greasyfork.org/en/scripts/411024-oof-focus/feedback
-// @homepage     https://greasyfork.org/en/scripts/411024-oof-focus
+// @supportURL   https://github.com/RealRedcodi/user-scripts/issues
+// @homepage     https://github.com/RealRedcodi/user-scripts/tree/main/Oof%20Focus
 // @require      https://unpkg.com/sweetalert/dist/sweetalert.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @require      https://greasyfork.org/scripts/407905-loggerjs/code/LoggerJS.js?version=831993
 // @require      https://greasyfork.org/scripts/411028-oof-api/code/OOF%20API.user.js
+// @updateURL    https://github.com/RealRedcodi/user-scripts/raw/main/Oof%20Focus/Oof%20Focus.user.js
+// @downloadURL  https://github.com/RealRedcodi/user-scripts/raw/main/Oof%20Focus/Oof%20Focus.user.js
 // @grant        none
 // ==/UserScript==
 
