@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Annoying Popups
 // @namespace    https://redcodi.space
-// @version      0.5
+// @version      0.6
 // @description  Annoying Popups Prank!
 // @author       Redcodi
 // @supportURL   https://github.com/RealRedcodi/user-scripts/issues
